@@ -299,6 +299,7 @@ h2.company-title {
 @media (min-width: 768px) and (max-width: 1024px) {
     .consultation-content {
         height: 100%;
+        width: 100%;
         display: flex;
     }
 
@@ -2703,7 +2704,7 @@ textarea.form-control {
 }
 
 .consultation-content .contact-img {
-    max-width: 285px
+    max-width: 985px
 }
 
 .pt-100 {
@@ -3856,8 +3857,7 @@ textarea.form-control {
 #custom-img {
     height: 100%;
     width: 100%;
-    max-width: 632px;
-    max-width: 632px;
+    /* max-width: 632px; */
 }
 
 .mean-container a.meanmenu-reveal {

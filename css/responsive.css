@@ -1017,6 +1017,11 @@
         display: block;
         margin: 0 auto 30px
     }
+
+
+    /* #custom-img{
+        width: 100% !important
+    } */
 }
 
 @media only screen and (min-width: 992px)and (max-width: 1199px) {
